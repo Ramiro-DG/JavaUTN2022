@@ -1,3 +1,2 @@
 # JavaUTN2022
-Repo para la practica de Java
-Y en un futuro el TP
+Repo para la practica de Java y codigo que concierne a la materia.
